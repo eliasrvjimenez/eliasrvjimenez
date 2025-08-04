@@ -13,6 +13,7 @@ I am interested in learning more about low-level system development, network pro
 Team Player | Quick Learner | Communicative | Flexible 
 
 ### Languages & Skills ###
+<img src="https://github.com/user-attachments/assets/168a776d-b457-4fba-9ceb-e7afee920812" width="75" height="75" alt="kotlin"/>
 <img src="https://github.com/eliasrvjimenez/eliasrvjimenez/assets/100444100/3ba3868b-b9fa-440c-a23c-b8cccf2251dc" alt="java" width=75/>
 <img src="https://github.com/user-attachments/assets/22e79077-dd36-4c44-b928-e46c6dbd1516" alt="maven" width=75/>
 <img src="https://github.com/user-attachments/assets/fa9f263f-78c4-4fb0-b26d-7410e19e2ac0" alt="swift" width=75/>
