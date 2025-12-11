@@ -5,7 +5,7 @@
 
 I am currently studying Computer Science 👨🏽‍💻 with an in-progress minor in Information Technology infrastructures.
 
-I am interested in learning more about low-level system development, network programming, database management, and DevSecOps.
+I am interested in learning more about Full Stack development, Mobile app development, and DevSecOps.
 ### Current Focus ###
 * In my free time, I am Advancing my skills in Swift and Kotlin, while working on my skills with the Electron framework.
 ### Skills: ###
