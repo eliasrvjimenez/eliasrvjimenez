@@ -5,10 +5,9 @@
 
 I am currently studying Computer Science 👨🏽‍💻 with an in-progress minor in Information Technology infrastructures.
 
-I am interested in learning more about low-level system development, network programming, database management, and DevOps.
+I am interested in learning more about low-level system development, network programming, database management, and DevSecOps.
 ### Current Focus ###
-* In my classes, I am currently learning network programming 🛜 skills in C and Java, as well as DevOps and using AWS.
-* In my free time, I am bouncing between learning Swift 🐦‍🔥 and improving my skills in Java ☕️.
+* In my free time, I am Advancing my skills in Swift and Kotlin, while working on my skills with the Electron framework.
 ### Skills: ###
 Team Player | Quick Learner | Communicative | Flexible 
 
